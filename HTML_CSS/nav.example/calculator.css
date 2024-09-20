@@ -1,0 +1,23 @@
+table {
+    width:200px;
+    height:300px;
+    text-align:center;
+    border:5pxsolid green;
+}
+
+th,td {
+    border: 1px solid red;
+
+}
+
+        td:hover  {
+            background-color: blue;
+            color:aquamarine
+        
+        }
+            
+        
+
+
+
+
